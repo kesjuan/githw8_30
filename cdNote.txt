@@ -1,0 +1,6 @@
+cd Command is used to navigate directories. for ex you can use just "cd" to bring you back to the home directory. further examples below.
+"cd/" root of the drive
+"cd-" previous directory browsed
+"cd.." move up to the parent directory
+"cd../.." move up two levels
+"cd[folder]"  change directory to specific place

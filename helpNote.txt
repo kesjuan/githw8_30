@@ -1,0 +1,5 @@
+help command provides help for other commands Ex
+help pwd 
+gives you a description and gives you options(flags) to use
+-- help command can also be used
+

@@ -1,0 +1,3 @@
+cat command reads a file / displays a file. it can also show a combination of files. Ex
+cat CatNote.txt TouchNote.txt
+should output both of the files contents.

@@ -1,0 +1,4 @@
+history command shows a history of the commands you previously entered
+or you can hit the up arrow on keyboard to scroll through history.
+clear command clears up the clutter in the display
+

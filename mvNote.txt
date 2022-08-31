@@ -1,0 +1,11 @@
+mv command is used to move files/directories and rename them. 
+rename file Ex
+mv mvNote.txt moveNote.txt
+The file name should now be moveNote.txt
+move file Ex
+mv mvNote.txt /Users/jared/Documents
+move multiple files Ex
+mv cdNote.txt mvNote.txt /Users/jared/Documents
+-i flag command prevents overwritting 
+-b to make a backup of existing file in that directory
+

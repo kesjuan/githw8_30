@@ -1,0 +1,10 @@
+ls Command shows the names of files and subdirectories
+ls[folder] can also show list of a specific directory
+ls -a lists everything inluding those starting with .(period) 
+ls -l lists files in a long format with further information like the last time
+the file was modified.
+You can combine commands and its called an flag or argument. for EX 
+ls -la will lsit everything in a long format
+ls -R recursively lists directory contents
+ls -r reverses the order of the list
+ls -t sorts the list by modification time, Newest to last

@@ -1,0 +1,3 @@
+exit command is used to exit from the shell
+logout command can also be used
+

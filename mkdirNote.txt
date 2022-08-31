@@ -1,0 +1,4 @@
+mkdir command creates a directory or "folder
+you can also use the command to make multiple
+-p flag command is used to create subdirectories
+

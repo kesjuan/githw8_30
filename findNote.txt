@@ -1,0 +1,4 @@
+find command is used to find a file 
+you need to specify the directory Ex
+find /Users/jared/Documents -name findNote.txt
+

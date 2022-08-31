@@ -1,0 +1,4 @@
+rm command is used to delete files and directories
+-f flag command force deletes the file without safety prompt
+-r flag command is used to remove the directory and all of its contents
+rmdir command is used to remove a directory

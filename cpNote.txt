@@ -1,0 +1,10 @@
+cp command is used to copy and paste files to other directories. Ex
+cp cpNote.txt /Users/jared/Documents
+this command copys the cpNote file to the directory Documents
+Wildcards can be used to copy multiple files and directories
+* represents all single characters or any string. 
+? used to represent one character.
+[] represents any character within the brackets.            Ex
+cp *.txt /Users/jared/Documents | will copy all the .txt files to documents
+-r flag command will recursively copy the files and directories within a directory
+-i flag command is used for a file you do not want to get accidentally overwritten  

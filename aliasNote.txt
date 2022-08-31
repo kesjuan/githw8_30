@@ -1,0 +1,8 @@
+alias command is used to give an alias or "shortcut name" to a command. Ex
+alias sho='cat'
+now instead of using cat command i can use "sho"
+This will reset after reboot 
+to make an alias permanent you need to add it to ~/.bashrc
+unalias is used to remove an alias Ex
+unalias sho
+

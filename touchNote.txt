@@ -1,0 +1,3 @@
+touch command creates a new empty file inside the directory.
+touch can also be used to change timestamps on existing files.
+use ls -l to check after touching the file

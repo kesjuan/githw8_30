@@ -1,0 +1,2 @@
+pwd command shows the pathway to how you got where you are in the folder or file
+This command shows you where you are and how you got there!

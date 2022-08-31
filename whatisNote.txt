@@ -1,0 +1,3 @@
+whatis command is used to get more information about a given command. Ex
+whatis touch
+will return a description about the "touch" command

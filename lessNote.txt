@@ -1,0 +1,7 @@
+less command is for viewing larger text files in a shell and is displayed as pages.
+while in this shell here are some useful commands
+q used to quit out of shell
+g moves to the beginning of the text file
+G moves to the end of the text file
+/search to search for specific text inside the text file
+h to get helping prompt 
